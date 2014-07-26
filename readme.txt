@@ -51,11 +51,10 @@ A QUICK GUIDE IS AVAILABLE HERE @ http://www.mihajlovicnenad.com/2014/07/how-can
 You Widget Customizer is installed and running!
 
 == Frequently Asked Questions ==
-* How to use this plugin?
-* Just add the + Widget Customizer before your desired widget and setup the basic settings. Your next widget will get styled.
-
-* Where can I get the Widget Customizer Premium plugin?
-* You can get the Premium version at this link http://codecanyon.net/item/widget-customizer-for-wordpress/8340408
+How to use this plugin?
+Just add the + Widget Customizer before your desired widget and setup the basic settings. Your next widget will get styled.
+Where can I get the Widget Customizer Premium plugin?
+You can get the Premium version at this link http://codecanyon.net/item/widget-customizer-for-wordpress/8340408?ref=dzeriho
 
 == Screenshots ==
 1. Widget Customizer FREE VERSION
