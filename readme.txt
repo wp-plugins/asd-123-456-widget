@@ -16,21 +16,27 @@ Widget Customizer is a simple WordPress plugin which will enable you to style yo
 EVERYBODY NEEDS A WIDGET CUSTOMIZER!
 
 Improve your site in seconds! Get the important stuff to stick out. Users visiting your site will notice the unique styled sections.
+
 WIDGET CUSTOMIZER IS AWESOME!
 
 Compatible with all Wordpress themes! Simple controls, but very effective results. Highlight that newsletter signup form that sits unnoticed in your sidebar.
+
 GRAB YOUR COPY TODAY!
 
 Don’t hesitate, you’ll love the Widget Customizer plugin for Wordpress. Colorize your footer elements and get creative results.
+
 PRESETS INCLUDED!
 
 25+ presets are included in the package. New presets will be added with the updates.
+
 AWESOME TOOL FOR DEVELOPERS!
 
 Improve your site designs and user experience. Add your own widget styles to your themes.
+
 USING WIDGET CUSTOMIZER IS EASY!
 
 Just create a new widget before the one you wish to style. You can either setup basic customization settings or use the available presets.
+
 COMPATIBLE WITH ANY THEME!
 
 Plugin is compatible with any theme. Experience new Wordpress features with this unique tool.
