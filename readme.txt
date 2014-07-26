@@ -4,7 +4,7 @@ Tags: custom, custom background, custom colors, custom fonts, custom widget, cus
 Donate link: http://www.mihajlovicnenad.com
 Requires at least: 3.5
 Tested up to: 3.9.1
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPL2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -23,7 +23,7 @@ Compatible with all Wordpress themes! Simple controls, but very effective result
 
 * GRAB YOUR PREMIUM COPY TODAY!
 
-Don’t hesitate, you’ll love the Widget Customizer plugin for Wordpress. Colorize your footer elements and get creative results.
+Don’t hesitate, you’ll love the Widget Customizer plugin for Wordpress. Colorize your footer elements and get creative results. Get PREMIUM copy at this link http://bit.ly/1pjg648
 
 * PRESETS INCLUDED!
 
@@ -54,7 +54,7 @@ You Widget Customizer is installed and running!
 How to use this plugin?
 Just add the + Widget Customizer before your desired widget and setup the basic settings. Your next widget will get styled.
 Where can I get the Widget Customizer Premium plugin?
-You can get the Premium version at this link http://codecanyon.net/item/widget-customizer-for-wordpress/8340408?ref=dzeriho
+You can get the Premium version at this link http://bit.ly/1pjg648
 
 == Screenshots ==
 1. Widget Customizer FREE VERSION
