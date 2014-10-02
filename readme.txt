@@ -3,8 +3,8 @@ Contributors: dzeriho
 Tags: custom, custom background, custom colors, custom fonts, custom widget, custom widgets, customize, google font, preset, style, widget customizer, widget fonts, widget presets, widget style, wordpress widget
 Donate link: http://www.mihajlovicnenad.com
 Requires at least: 3.5
-Tested up to: 3.9.1
-Stable tag: 1.0.2
+Tested up to: 4.0
+Stable tag: 1.0.4
 License: GPL2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
