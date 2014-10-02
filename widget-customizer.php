@@ -75,7 +75,6 @@ class wdgtcstmzr extends WP_Widget {
 		?>
 			</style>
 		<?php
-		echo $after_widget;
 	}
 
 	function update( $new_instance, $old_instance ) {
