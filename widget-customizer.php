@@ -4,7 +4,7 @@ Plugin Name: Widget Customizer for Wordpress - Free Version
 Plugin URI: http://www.mihajlovicnenad.com/widget-customizer
 Description: Plugin for easy widget styling! Get amazing presets and features for your widgets! - mihajlovicnenad.com
 Author: Mihajlovic Nenad
-Version: 1.0.0
+Version: 1.0.1
 Author URI: http://www.mihajlovicnenad.com
 */
 
@@ -75,7 +75,6 @@ class wdgtcstmzr extends WP_Widget {
 		?>
 			</style>
 		<?php
-		echo $after_widget;
 	}
 
 	function update( $new_instance, $old_instance ) {
