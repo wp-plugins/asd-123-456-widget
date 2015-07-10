@@ -3,15 +3,15 @@ Contributors: dzeriho
 Tags: custom, custom background, custom colors, custom fonts, custom widget, custom widgets, customize, google font, preset, style, widget customizer, widget fonts, widget presets, widget style, wordpress widget
 Donate link: http://www.mihajlovicnenad.com
 Requires at least: 3.5
-Tested up to: 4.0
+Tested up to: 4.2.2
 Stable tag: 1.0.4
 License: GPL2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Widget Customizer is a simple WordPress plugin which will enable you to style your widgets in seconds! Colorize your widgets, set their background color, title color, text and links style.
+Customize your widgets without any CSS knowledge! - Mihajlovicnenad.com
 
 == Description ==
-Widget Customizer is a simple WordPress plugin which will enable you to style your widgets in seconds! Colorize your widgets, set their background color, title color, text and links, with or without borders. Use Google fonts for titles and text, and even write in some custom CSS. Creating awesome looking styled widgets quickly. Just drag the Widget Customizer before the widget you wish to style and choose one of the many presets included in the plugin. That simple and effective! Developers can also use the Widget Customizer to make their customers life a bit easier. Include your own presets and styles in your themes. Allow you clients new possibilities at their fingertips. They will love it!
+Widget Customizer is a simple WordPress plugin which styles your widgets in seconds! Colorize your widgets, set their background color, title color, text and links, with or without borders. Use Google fonts for titles and text, and even write in some custom CSS. Creating awesome looking styled widgets quickly. Just drag the Widget Customizer before the widget you wish to style and choose one of the many presets included in the plugin. That simple and effective! Developers can also use the Widget Customizer to make their customers life a bit easier. Include your own presets and styles in your themes. Allow you clients new possibilities at their fingertips. They will love it!
 
 * EVERYBODY NEEDS A WIDGET CUSTOMIZER!
 
