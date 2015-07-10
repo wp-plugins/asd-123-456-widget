@@ -11,7 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Customize your widgets without any CSS knowledge! - Mihajlovicnenad.com
 
 == Description ==
-Widget Customizer is a simple WordPress plugin which will enable you to style your widgets in seconds! Colorize your widgets, set their background color, title color, text and links, with or without borders. Use Google fonts for titles and text, and even write in some custom CSS. Creating awesome looking styled widgets quickly. Just drag the Widget Customizer before the widget you wish to style and choose one of the many presets included in the plugin. That simple and effective! Developers can also use the Widget Customizer to make their customers life a bit easier. Include your own presets and styles in your themes. Allow you clients new possibilities at their fingertips. They will love it!
+Widget Customizer is a simple WordPress plugin which styles your widgets in seconds! Colorize your widgets, set their background color, title color, text and links, with or without borders. Use Google fonts for titles and text, and even write in some custom CSS. Creating awesome looking styled widgets quickly. Just drag the Widget Customizer before the widget you wish to style and choose one of the many presets included in the plugin. That simple and effective! Developers can also use the Widget Customizer to make their customers life a bit easier. Include your own presets and styles in your themes. Allow you clients new possibilities at their fingertips. They will love it!
 
 * EVERYBODY NEEDS A WIDGET CUSTOMIZER!
 
